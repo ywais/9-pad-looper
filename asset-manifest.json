@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/9-pad-looper/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/9-pad-looper/static/js/main.a730baae.chunk.js",
+    "main.js.map": "/9-pad-looper/static/js/main.a730baae.chunk.js.map",
+    "runtime-main.js": "/9-pad-looper/static/js/runtime-main.f40b68f4.js",
+    "runtime-main.js.map": "/9-pad-looper/static/js/runtime-main.f40b68f4.js.map",
+    "static/js/2.5fa22ac2.chunk.js": "/9-pad-looper/static/js/2.5fa22ac2.chunk.js",
+    "static/js/2.5fa22ac2.chunk.js.map": "/9-pad-looper/static/js/2.5fa22ac2.chunk.js.map",
+    "static/js/3.ada1b694.chunk.js": "/9-pad-looper/static/js/3.ada1b694.chunk.js",
+    "static/js/3.ada1b694.chunk.js.map": "/9-pad-looper/static/js/3.ada1b694.chunk.js.map",
+    "index.html": "/9-pad-looper/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/9-pad-looper/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.5fa22ac2.chunk.js.LICENSE.txt": "/9-pad-looper/static/js/2.5fa22ac2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/9-pad-looper/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f40b68f4.js",
+    "static/js/2.5fa22ac2.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.a730baae.chunk.js"
+  ]
+}
